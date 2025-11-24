@@ -1,4 +1,4 @@
 Brief Introduction About Myself
 
-My name is [Your Name] and I'm learning GitHub.
+My name is Antony Wairia and I'm learning GitHub.Passionate coder exploring the realms of software development. Enthusiastic about building meaningful projects
 I'm interested in software development and excited to learn version control with Git.
